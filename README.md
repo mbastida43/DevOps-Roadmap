@@ -145,6 +145,7 @@ Resources:
 - [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/) <sup>FREE</sup>
 - [Learn Apache Server](https://www.twaino.com/en/blog/website-creation/apache-server-2/) <sup>FREE</sup>
 - [Learn IIS](https://www.dnsstuff.com/windows-iis-server-tools) <sup>FREE</sup>
+- [What is virtualization?] (https://en.wikipedia.org/wiki/Virtualization) <sup>FREE</sup>
 
 ### 6. Learn Containers
 
